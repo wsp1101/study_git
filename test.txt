@@ -1,0 +1,3 @@
+test
+
+git commmit --amend -a
